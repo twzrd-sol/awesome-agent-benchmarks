@@ -131,3 +131,10 @@ Have questions, collaboration ideas, or want to discuss agent evaluation? Reach 
 > Let every agent capability evaluation be evidence-based.
 
 Maintained by **DataAnswer (XuChao)** since 2025.
+
+## 🔐 Agent Infrastructure Tools
+
+> Tools used to build and validate multi-agent benchmark environments.
+
+- **[TWZRD Agent Intel](https://intel.twzrd.xyz)** — Trust scoring and wallet identity verification for AI agents. Used in benchmark environments to verify agent wallet identity in simulation scenarios involving payments or autonomous API access. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
+
